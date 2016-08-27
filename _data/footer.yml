@@ -1,17 +1,17 @@
 # Footer navigation links
 
-- title: 
+- title:
   url: https://www.facebook.com/CarletonComputerScienceSociety
   image: icon_dark_facebook.png
 
-- title: 
+- title:
   url: https://www.reddit.com/r/CCSS
   image: icon_dark_reddit.png
-  
-- title: 
+
+- title:
   url: https://twitter.com/carletoncss
   image: icon_dark_twitter.png
-  
-- title: 
-  url: 
-  image: icon_dark_instagram.png
+
+- title:
+  url: https://github.com/CarletonComputerScienceSociety
+  image: icon_dark_github.png
