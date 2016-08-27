@@ -15,7 +15,7 @@
       image: /images/teaser.png
       
 - title: Community
-  url: /community/
+  url: /community
   excerpt:
   image:
   sublinks:
@@ -54,9 +54,6 @@
       image: /images/teaser.png
     - title: Useful Links
       url: /resources/links/
-      image: /images/teaser.png
-    - title: Support and Advice
-      url: /resources/advice/
       image: /images/teaser.png
   
 - title: Contact
